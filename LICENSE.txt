@@ -5,7 +5,7 @@ States under Title 17, U.S.Code. All Other Rights Reserved.
  
 NASA software is a modification to the following:
 PyMDPToolbox
-Copyright (c) 2011-2013 Steven A. W. Cordwell
+Copyright (c) 2011-2015 Steven A. W. Cordwell
 Copyright (c) 2009 INRA
 All rights reserved.
  
